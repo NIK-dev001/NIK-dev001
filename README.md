@@ -19,3 +19,5 @@ A platform of mini‑games featuring tic‑tac‑toe (Minimax), chess, and dice 
 ## 📫 Contacts
 - **Email:** nik.gg.00@inbox.ru
 - **GitHub:** [@NIK-dev001](https://github.com/NIK-dev001)
+<sub>I LOVE METAL FAMALY</sub>
+
