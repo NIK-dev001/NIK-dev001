@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi! I’m NIK-dev 👋
 
-<!--
-**NIK-dev001/NIK-dev001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer from Russia. I don’t use frameworks or complex tools — only pure HTML, CSS, and JavaScript to create things that work in the browser.
 
-Here are some ideas to get you started:
+## 🚀 My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 [MacParty](https://nik-dev001.github.io/macparty/)
+A collection of web emulators for classic Apple operating systems. Recreates the Mac OS X Leopard (2007) and Kernel Panic screens using only pure JS. No installations, no virtual machines — just open and use
+
+### 🎮 [miniGames.io](https://nik-dev001.github.io/MiniGames.IO/)
+A platform of mini‑games featuring tic‑tac‑toe (Minimax), chess, and dice games. Built with pure JavaScript + Tailwind CSS. Supports two languages and multiple themes. Everything works on the client side.
+
+## 🛠 What I use
+- HTML5 / CSS3 / Pure JavaScript
+- Tailwind CSS (via CDN)
+- GitHub Pages for hosting
+- VS Code as the editor
+
+## 📫 Contacts
+- **Email:** nik.gg.00@inbox.ru
+- **GitHub:** [@NIK-dev001](https://github.com/NIK-dev001)
