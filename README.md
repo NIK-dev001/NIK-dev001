@@ -30,15 +30,15 @@ A platform of mini‑games featuring tic‑tac‑toe (Minimax), chess, and dice 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIK-dev001&theme=gradient_red&hide_border=true" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIK-dev001&theme=onedark" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIK-dev001&theme=gradient_red&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIK-dev001&theme=onedark" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIK-dev001&theme=gradient_red&hide_border=true" alt="Commit Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIK-dev001&theme=onedark" alt="Commit Stats" />
 </p>
 
 ## 📫 Contacts
