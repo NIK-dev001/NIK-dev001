@@ -17,7 +17,20 @@ A platform of mini‑games featuring tic‑tac‑toe (Minimax), chess, and dice 
 - VS Code as the editor
 
 ## stats
-![Stats](https://github-readme-stats.vercel.app/api?username=NIK-dev001&show_icons=true&theme=galaxy-purple) 
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIK-dev001&theme=github_dark&hide_border=true&bg_color=0f0518&border_color=4c1d95" alt="Profile Details" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NIK-dev001&theme=github_dark&hide_border=true&bg_color=0f0518&border_color=4c1d95" alt="Top Languages" />
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIK-dev001&theme=github_dark&hide_border=true&bg_color=0f0518&border_color=4c1d95" alt="Commit Stats" />
+</p>
 
 ## 📫 Contacts
 - **Email:** nik.gg.00@inbox.ru
