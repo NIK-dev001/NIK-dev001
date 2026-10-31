@@ -44,9 +44,6 @@ A platform of mini‑games featuring tic‑tac‑toe (Minimax), chess, and dice 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NIK-dev001&theme=onedark" alt="Commit Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NIK-dev001&theme=onedark" alt="Repos per Language" />
-</p>
 
 ## 📫 Contacts
 - **Email:** nik.gg.00@inbox.ru
