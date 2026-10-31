@@ -4,6 +4,9 @@ I’m a developer from Russia. I don’t use frameworks or complex tools — o
 
 ## 🚀 My projects
 
+### 💻 [Text Nodes Visualiazer](https://nik-dev001.github.io/Text-Nodes-Visualizer/) 
+Web-based text visualizer that transforms  text into interactive neural graphs. Built with pure HTML, CSS, and JavaScript. No frameworks, -  just open, type, and visualize connections instantly. 
+
 ### 💻 [MacParty](https://nik-dev001.github.io/macparty/)
 A collection of web emulators for classic Apple operating systems. Recreates the Mac OS X Leopard (2007) and Kernel Panic screens using only pure JS. No installations, no virtual machines — just open and use
 
