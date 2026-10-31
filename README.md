@@ -4,8 +4,6 @@ I’m a developer from Russia. I don’t use frameworks or complex tools — o
 
 ## 🚀 My projects
 
-### ✨ [My portfolio](nik-dev001.github.io/my-Portfolio/)
-
 ### 💻 [MacParty](https://nik-dev001.github.io/macparty/)
 A collection of web emulators for classic Apple operating systems. Recreates the Mac OS X Leopard (2007) and Kernel Panic screens using only pure JS. No installations, no virtual machines — just open and use
 
