@@ -4,7 +4,7 @@ I’m a developer from Russia. I don’t use frameworks or complex tools — o
 
 ## 🚀 My projects
 
-### 💻 [Text Nodes Visuliazer](https://nik-dev001.github.io/Text-Nodes-Visualizer/) 
+### 💻 [Text Nodes Visualizer](https://nik-dev001.github.io/Text-Nodes-Visualizer/) 
 Web-based text visualizer that transforms  text into interactive neural graphs. Built with pure HTML, CSS, and JavaScript. No frameworks, -  just open, type, and visualize connections instantly. 
 
 ### 💻 [MacParty](https://nik-dev001.github.io/macparty/)
